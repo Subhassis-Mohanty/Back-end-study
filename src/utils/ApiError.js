@@ -14,7 +14,7 @@ constructor(
 
 
 
-       if(statck)
+    if(statck)
         {
             this.stack = statck
         }else{
